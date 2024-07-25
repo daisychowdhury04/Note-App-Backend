@@ -1,0 +1,122 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js build output
+.next/
+
+# Gatsby files
+.cache/
+public/
+
+# Gridsome files
+.cache/
+dist/
+
+# FuseBox cache
+.fusebox/
+
+# Webpack cache
+.webpack/
+
+# Parcel cache
+.cache/
+dist/
+
+# React Native
+*.bundle
+*.expo
+.expo-shared/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+.history/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.vscode
+*.code-workspace
+
+# Mac specific
+*.DS_Store
+.DS_Store?
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# Hidden directories
+.*.swp
+.*.swo
+.*.swn
+.*.swn
+.*.swm
+.*.swh
+.*.swi
+.*.swj
+
+# Folder config files
+.directory
+
+# VSCode settings
+.vscode/
+
+# Nuxt.js
+.nuxt/
+
+# SvelteKit
+.svelte-kit/
+
+# Storybook
+.storybook/
+
+# Cache and build directories
+.cache/
+dist/
+build/
+
+# Compiled files
+*.lock
+
+# Static files
+*.map
+
+# Others
+local.js
